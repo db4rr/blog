@@ -1,0 +1,17 @@
+name: Test
+title: A test
+description: Hola mundo
+remote_theme: pmarsceill/just-the-docs
+
+color_scheme: light
+
+# logo: "/assets/images/Morris_badge.png"
+
+aux_links:
+  "FInd me on GitHub":
+    - "//github.com/db4rr"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Lorem that ipsum. Lorem that ipsum good."
